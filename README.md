@@ -9,7 +9,7 @@
 
 - 💼 **Profession:** Full Stack Developer intern
 - 🌱 **Studies:** Code First Girls graduate committed to continuous learning
-- 📚 **Current Project:** Collaborating with two fellow CFG grads to build a React-based book-matching app that helps paired readers find their next read based on shared book history and favourite genres  
+- 💻 **Current Project:** Collaborating with two fellow CFG grads to build a React-based book-matching app that helps paired readers find their next read based on shared book history and favourite genres  
 - ✨ **Fun Fact:** When I’m not writing code, I’m probably rock climbing, hiking, or making chaotic decisions in D&D.
 - 💬 **Ask me about:** React components, Alpine adventures, or how many dice is too many (spoiler: it’s never too many) 🎲
 
