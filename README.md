@@ -16,7 +16,12 @@
 ---
 
 ## ⚒️ Tech Stack 
-![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,nextjs,nestjs,postgres,postman,mysql,kubernetes,docker,aws,figma,git,github,gitlab,express,redux,vscode&perline=7)
+
+**Core Stack**
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,mysql,git,github,nodejs,express,nextjs,nestjs,postman,vscode,vite&perline=5)
+
+**Also familiar with**
+![My Skills](https://skillicons.dev/icons?i=jest,graphql,postgres,kubernetes,docker,aws,figma,gitlab,redux&perline=5)
 
 ---
 
