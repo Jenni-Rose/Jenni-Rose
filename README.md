@@ -17,10 +17,10 @@
 
 ## ⚒️ Tech Stack 
 
-**Core Stack**
+**Core Stack** <br>
 ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,mysql,git,github,nodejs,express,nextjs,nestjs,postman,vscode,vite&perline=5)
 
-**Also familiar with**
+**Also familiar with** <br>
 ![My Skills](https://skillicons.dev/icons?i=jest,graphql,postgres,kubernetes,docker,aws,figma,gitlab,redux&perline=5)
 
 ---
